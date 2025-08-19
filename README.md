@@ -120,9 +120,4 @@ chmod +x run.sh
 
 ---
 
-> **注意**：实际部署前请确保：
-> 1. 在`config/settings/production.py`中设置`SECRET_KEY`
-> 2. 配置适合生产环境的数据库
-> 3. 设置`DEBUG=False`并配置`ALLOWED_HOSTS`
-
-系统截图请参见项目目录中的`screenshots/`文件夹
+**如果对你有所帮助，请给我作者点一个star，在此感谢！！！！**
