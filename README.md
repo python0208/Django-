@@ -1,4 +1,4 @@
-
+<img width="2429" height="1631" alt="项目" src="https://github.com/user-attachments/assets/6fb89a04-b934-4128-8610-dc32a8a6c5a0" />
 
 # Django-
 Django课程教学平台是一个基于Django框架开发的一站式教学解决方案，专为教育场景设计。平台采用高效的全栈开发模式（前后端不分离），集课程管理、作业系统、考试评测、学习统计四大核心功能于一体，为教师和学生提供完整的数字化教学体验。
